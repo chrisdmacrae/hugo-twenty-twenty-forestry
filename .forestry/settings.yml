@@ -17,6 +17,7 @@ sections:
   match: "**/*"
   templates:
   - post
+  - post-other
 - type: heading
   label: Others Pages
 - type: directory
